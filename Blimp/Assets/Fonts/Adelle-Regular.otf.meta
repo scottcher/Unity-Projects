@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 108b76fd189162a409c18c432be98ccb
+timeCreated: 1497651142
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adelle
+  fontNames:
+  - Adelle
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

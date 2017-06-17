@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: bbab5c2a2ca42ac44b976a59a0869fa4
+timeCreated: 1497651143
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BentonSans
+  fontNames:
+  - BentonSans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 97335a8036bac764ba7ec077035b59fd, type: 3}
+  - {fileID: 12800000, guid: 5f0300733c8cdb74384d3e845b2b506c, type: 3}
+  - {fileID: 12800000, guid: 9a7f1ffbd647f5d469f3d0de09b957de, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
