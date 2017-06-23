@@ -41,3 +41,8 @@ obj/
 WSATestCertificate.pfx
 WSATestCertificate.pfx.meta
 /Assets/HoloToolkit-Examples/FastConfigurableShader/Scenes/FastConfigurableTest
+
+# ===================================== #
+# HoloToolkit Asset Package             #
+# ===================================== #
+Assets/HoloToolkit/
