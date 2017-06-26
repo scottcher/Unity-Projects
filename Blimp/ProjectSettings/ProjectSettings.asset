@@ -513,7 +513,7 @@ PlayerSettings:
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
-  metroCertificateNotAfter: 8024f506d509d401
+  metroCertificateNotAfter: 80316e11e70cd401
   metroApplicationDescription: Blimp
   wsaImages: {}
   metroTileShortName: Blimp
